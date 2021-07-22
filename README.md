@@ -18,7 +18,7 @@
 
 * The "Trips by Gender (Weekday per Hour)" image shows a similar trend as the "Trips by Weekday per Hour" image, with weekdays having morning and evening being most popular and weekends having 10am to early evening. The main difference is just females overall riding less. (https://github.com/awolfe95/Bikesharing/blob/main/Images/Trips_by_Gender_(Weekday_per_Hour).png)
 
-* The "User Trips by Gender by Weekday" image shows that customers don't really have a distinct pattern for day popularity. However, subscribers of both genders, Thursdays seem to be the most popular day. (https://github.com/awolfe95/Bikesharing/blob/main/Images/User_Trips_by_Weekday_by_Gender.png)
+* The "User Trips by Gender by Weekday" image shows that customers don't really have a distinct pattern for day popularity. However, for subscribers of both genders, Thursdays seem to be the most popular day. (https://github.com/awolfe95/Bikesharing/blob/main/Images/User_Trips_by_Weekday_by_Gender.png)
 
 ## Summary
 
