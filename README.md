@@ -24,3 +24,4 @@
 
 ### Overall, the most popular times for bikesharing services center around the workday, with males riding more bikes than females. One additional visualization could be examining the number of rides by days of the week and by age to see if people of different ages tend to prefer riding on different days or at different times. Another visualization could be examining the difference between start locations during the weekdays versus on the weekends, to see if start locations during the weekdays correlate to where people work, whereas on the weekends if it is more often parks, etc. 
 
+[link to dashboard](https://public.tableau.com/app/profile/ava.wolfe/viz/CitiBike_Challenge_16268341411540/BikesharingAnalysis?publish=yes)
